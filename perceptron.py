@@ -32,7 +32,7 @@ class Perceptron():
         self.countClasses()
 
         print("Normalize Data")
-        self.normalizeData()
+        #self.normalizeData()
 
         print("Training Model:")
 
